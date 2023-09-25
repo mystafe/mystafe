@@ -1,15 +1,13 @@
 ### Hi there, I'm Mustafa Evleksiz
 
-> [![View count](https://visitcount.itsvg.in/api?id=mystafe&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=mystafe)
+> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Web+Developer;I'm+a+Full+Stack+Developer"></p>
 I'm from Istanbul, Turkiye 🇹🇷 <h3 align="left">Connect with me:</h3>
 
-- 👀 : Here is [my personal website](/)
-- 📧 : Contact me at [admess34@gmail.com](mailto:admess34@gmail.com/)
-- 🔗 : Linkedin <a href="https://linkedin.com/in/mustafa-e-728bb1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-e-728bb1a5" height="30" width="40" /></a>
+[admess34@gmail.com](mailto:admess34@gmail.com/) |   <a href="https://linkedin.com/in/mustafa-e-728bb1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-e-728bb1a5" height="15" width="15" /></a>
 
 <p align="left"> <img src="httpss://komarev.com/ghpvc/?username=mystafe&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 🔭 I’m currently working on *Aloha Mobile*
@@ -24,3 +22,6 @@ I'm from Istanbul, Turkiye 🇹🇷 <h3 align="left">Connect with me:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mystafe&" alt="mystafe" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mystafe" alt="" /></a> </p>
+
+
+[![View count](https://visitcount.itsvg.in/api?id=mystafe&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=mystafe)
